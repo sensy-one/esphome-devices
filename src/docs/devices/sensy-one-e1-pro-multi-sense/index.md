@@ -8,3 +8,5 @@ project-url: https://github.com/sensy-one/E1-Pro-Multi-Sense
 made-for-esphome: True
 difficulty: 1
 ---
+
+![SENSY-ONE E1 Pro Multi Sense](E1_Pro_Multi_Sense.jpg "E1 Pro Multi Sense")
