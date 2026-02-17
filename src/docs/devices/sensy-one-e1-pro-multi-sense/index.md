@@ -1,5 +1,5 @@
 ---
-title: SENSY-ONE E1 Pro Multi Sense
+title: SENSY-ONE E1 Pro Multi Sense 
 date-published: 2026-02-17
 type: sensor
 standard: global
